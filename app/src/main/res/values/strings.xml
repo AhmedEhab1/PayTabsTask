@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ahmed Ehab Task</string>
+    <string name="user_profile">User Profile</string>
+    <string name="company">Company :</string>
+    <string name="bio">Bio :</string>
+    <string name="type">Type</string>
+</resources>
